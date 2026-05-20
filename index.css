@@ -1,0 +1,36 @@
+
+
+.how {
+    color: red;
+}
+
+body{
+
+    font-family: "Comic Relief", "consolas";
+    font-style: italic;
+    background-image: url(bg.jpg);
+
+    border-style: solid;
+    border-radius: 5px;
+    border-spacing: 5px;
+    
+
+
+}
+
+
+#whorwee {
+    color: rgb(116, 17, 17);
+}
+
+p {
+    border-style: groove;
+    border-color: maroon;
+    border-radius: 5px;
+    
+}
+
+#logo {
+
+    text-align: center;
+}
