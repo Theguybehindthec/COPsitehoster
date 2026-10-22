@@ -5,7 +5,7 @@
 }
 
 body{
-
+https://github.com/Theguybehindthec/COPsitehoster/blob/main/index.css
     font-family: "Comic Relief", "consolas";
     font-style: italic;
     background-image: url(bg.png);
@@ -37,6 +37,7 @@ p {
 
 #thegang {
 
-    text-align: center;
+      display: block;
+      margin: 0 auto; 
 
 }
